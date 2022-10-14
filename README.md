@@ -22,7 +22,7 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ```
 with open("git.txt","r") as f1:
-    with open("git.txt","a") as f2:
+    with open("newfile","a") as f2:
         for line in f1:
             f2.write(line)
             
@@ -30,8 +30,9 @@ with open("git.txt","r") as f1:
 
 ### OUTPUT:
 ![OUTPUT](/ghu.png)
-![OUTPUT](/Screenshot%20from%202022-10-14%2010-25-03.png)
+![OUTPUT](/Screenshot%20from%202022-10-14%2010-47-39.png)
 ![OUTPUT](/pli.png)
+![OUTPUT](/Screenshot%20from%202022-10-14%2010-44-47.png)
 
 
 
