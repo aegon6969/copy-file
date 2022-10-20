@@ -20,7 +20,10 @@ Anaconda - Python 3.7
 ### step 7: Print the output.
 
 ## PROGRAM:
-```
+```python
+To write a python program for copying the contents from one file to another file.
+Developed By: M.Rishi
+Register Number: 22000276
 with open("git.txt","r") as f1:
     with open("newfile","a") as f2:
         for line in f1:
